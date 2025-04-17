@@ -60,3 +60,15 @@ an ever-growing financial landscape
 ![feature_importance](https://github.com/user-attachments/assets/b9e951b4-5712-4d00-aba0-256c7e230dd2)
 ![Confusion Matrix_Random_Forest_(Grid_Search)](https://github.com/user-attachments/assets/3950c427-5535-4274-a59d-ec9196507d9e)
 
+**********Code Execution*******************
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/df73dd0b-231b-4eca-94a7-20c974c2095a" />
+<img width="469" alt="Console Data_1" src="https://github.com/user-attachments/assets/d1683c42-1e94-4d93-8431-75b1c12af1e9" />
+<img width="421" alt="Console Data_2" src="https://github.com/user-attachments/assets/3e942a49-eb2e-41ce-bd35-c02f0511e1dc" />
+<img width="333" alt="Console Data_3" src="https://github.com/user-attachments/assets/7f8e0b9c-c7fc-45c9-88f2-c20035141798" />
+<img width="339" alt="Console Data_4" src="https://github.com/user-attachments/assets/705fc9a3-878c-48bd-b9eb-41f2e4a4d5db" />
+<img width="929" alt="Model comparison snippet" src="https://github.com/user-attachments/assets/40e4d604-55e0-4087-81c6-82307148fbe1" />
+<img width="959" alt="Summary Report Snippet" src="https://github.com/user-attachments/assets/a45954ec-378a-4b88-b663-43ee52a22cda" />
+
+
+
