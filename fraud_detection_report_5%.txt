@@ -1,0 +1,67 @@
+Model Type: XGBClassifier
+Training Date: 2025-04-10 17:19:08
+
+=== Performance Metrics ===
+AUC-ROC: 0.8997
+Recall (Fraud Detection Rate): 34.67%
+Precision: 45.22%
+F1 Score: 0.3925
+Average Precision: 0.3684
+
+=== Confusion Matrix ===
+[[5574	 126]
+ [ 196	 104]]
+
+=== Top 10 Features ===
+month: 0.4063
+keep_alive_session: 0.1450
+has_other_cards: 0.0856
+housing_status: 0.0494
+phone_home_valid: 0.0476
+customer_age: 0.0332
+phone_mobile_valid: 0.0298
+velocity_4w: 0.0191
+device_distinct_emails_8w: 0.0169
+payment_type: 0.0144
+
+=== Model Parameters ===
+objective: binary:logistic
+base_score: None
+booster: None
+callbacks: None
+colsample_bylevel: None
+colsample_bynode: None
+colsample_bytree: 0.8
+device: None
+early_stopping_rounds: None
+enable_categorical: False
+eval_metric: aucpr
+feature_types: None
+feature_weights: None
+gamma: 0.1
+grow_policy: None
+importance_type: None
+interaction_constraints: None
+learning_rate: 0.1
+max_bin: None
+max_cat_threshold: None
+max_cat_to_onehot: None
+max_delta_step: None
+max_depth: 6
+max_leaves: None
+min_child_weight: 1
+missing: nan
+monotone_constraints: None
+multi_strategy: None
+n_estimators: 200
+n_jobs: -1
+num_parallel_tree: None
+random_state: 42
+reg_alpha: 0.1
+reg_lambda: 0.1
+sampling_method: None
+scale_pos_weight: 1.0
+subsample: 0.8
+tree_method: None
+validate_parameters: None
+verbosity: None
