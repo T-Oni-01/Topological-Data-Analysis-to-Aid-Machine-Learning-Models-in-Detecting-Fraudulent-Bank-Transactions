@@ -1,9 +1,7 @@
-# Direct-Independent-Study-Spring-2025-UNF-
-UNF Spring 2025 Direct Independent Study (DIS)
+# Topological Data Analysis to Aid Machine Learning Models in Detecting Fraudulent Bank Transactions-
+UNF Spring 2025 Study 
 
-This is a DIS I undertook at the University of North Florida In the Spring of 2025, investigating the topic "Topological Data Analysis to Aid Machine Learning Models in Detecting Fraudulent Bank Transactions"
-
-Professor: Dr. Karthikeyan Umapathy
+This is a study I undertook at the University of North Florida In the Spring of 2025, investigating the topic "Topological Data Analysis to Aid Machine Learning Models in Detecting Fraudulent Bank Transactions"
 
 Abstract:
 This research plan aims to investigate the use of
